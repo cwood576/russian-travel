@@ -1,11 +1,11 @@
-.cover{
-  position: relative;
-  width: calc(100vw - calc(96 / 1280 * 100vw));
-  margin: auto;
+.cover {
+    position: relative;
+    width: calc(100vw - calc(96 / 1280 * 100vw));
+    margin: auto;
 }
-@media screen and (max-width: 1024px){
-  .cover{
-    width: 100%;
-  }
-  
+
+@media screen and (max-width: 1024px) {
+    .cover {
+        width: 100%;
+    }
 }

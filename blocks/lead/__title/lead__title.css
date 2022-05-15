@@ -1,20 +1,22 @@
-.lead__title{
-  font-size: 96px;
-  text-align: center;
-  margin: 0 auto 32px auto;
-  line-height: 100px;
-}
-@media screen and (max-width: 768px){
-  .lead__title{
+.lead__title {
+    font-size: 96px;
+    text-align: center;
     margin: 0 auto 32px auto;
-    font-size: calc(100vw / 8) ;
-    line-height: 1.04;
-  }
+    line-height: 100px;
 }
-@media screen and (max-width: 425px){
-  .lead__title{
-    margin: 0 auto 16px auto;
-    font-size: 40px ;
-    line-height: 44px;
-  }
+
+@media screen and (max-width: 768px) {
+    .lead__title {
+        margin: 0 auto 32px auto;
+        font-size: calc(100vw / 8);
+        line-height: 1.04;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    .lead__title {
+        margin: 0 auto 16px auto;
+        font-size: 40px;
+        line-height: 44px;
+    }
 }

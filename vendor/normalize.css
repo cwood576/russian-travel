@@ -417,9 +417,14 @@ template {
 [hidden] {
     display: none;
 }
-p{
+
+p {
     margin: 0;
 }
-h2, p, h3, h4{
+
+h2,
+p,
+h3,
+h4 {
     margin: 0;
 }
