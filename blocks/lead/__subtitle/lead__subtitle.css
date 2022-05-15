@@ -16,6 +16,7 @@
     .lead__subtitle {
         font-size: calc(100vw / 768 * 30);
         line-height: 1.2;
+        max-width: calc(100vw / 768 * 640);
     }
 }
 
@@ -24,5 +25,6 @@
         margin: 0 auto 40px auto;
         font-size: 16px;
         line-height: 20px;
+        max-width: 288px;
     }
 }
