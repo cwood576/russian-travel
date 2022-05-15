@@ -18,4 +18,4 @@
 * CSS3
 
 **Ссылка**
-* https://cwood576.github.io/russian-travel/
+* https://cwood576.github.io/russian-travel/g
