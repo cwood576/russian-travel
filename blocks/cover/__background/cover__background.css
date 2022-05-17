@@ -13,6 +13,7 @@
     align-content: center;
     height: calc(calc(100vw - calc(96 / 1280 * 100vw)) * 0.625);
     z-index: 2;
+    text-decoration: none;
 }
 
 .cover__background::before {
