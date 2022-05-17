@@ -18,8 +18,5 @@
 * CSS3
 
 **Ссылка**
-<<<<<<< HEAD
 * https://cwood576.github.io/russian-travel/
-=======
-* https://cwood576.github.io/russian-travel/
->>>>>>> 5a82cfa42db5fbc6a09bcf51e2c9a37323a8d139
+
